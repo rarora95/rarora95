@@ -49,6 +49,4 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
+
