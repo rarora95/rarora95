@@ -30,7 +30,7 @@ me = RajatArora()
 me.say_hi()
 ```
 
-Currently pursuing my Master's in Computer Science at **Georgia Tech**, focusing on Machine Learning and Intelligent Systems. Former Software Engineer at **Cisco** with a passion for building high-performance systems and optimizing complex architectures.
+Currently pursuing my Master's in Computer Science at **Georgia Tech**, focusing on Machine Learning and Intelligent Systems. Former Software Engineer at **Cisco** and **Ericsson**with a passion for building high-performance systems and optimizing complex architectures.
 
 ## 💼 Professional Experience
 
