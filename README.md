@@ -34,23 +34,15 @@ Currently pursuing my Master's in Computer Science at **Georgia Tech**, focusing
 
 ## 💼 Professional Experience
 
-### 🔷 Software Engineer @ CISCO
-*May 2023 - Aug 2023 | Kanata, ON*
-- Optimized UI performance with ReactJS virtual scroll, drastically reducing DOM overhead
-- Built full-stack features with **ReactJS**, **Python**, and **PostgreSQL**
-- Developed RESTful APIs using **Flask** for seamless data flow
+I've spent the last few years building impactful software solutions at **Cisco** and **Ericsson**, working across the full stack and diving deep into systems-level challenges. My journey has taken me from optimizing CI/CD pipelines to crafting user-centric UIs and architecting backend services that handle real-world scale.
 
-### 🔷 Software Engineer Intern @ CISCO (Multiple Terms)
-*Sep 2021 - Aug 2022 | Kanata, ON*
-- Designed user-centric UIs with **Angular** and **Python**
-- Implemented fuzzy string matching algorithm achieving **90% accuracy**
-- Optimized critical data decoding pipelines on **Linux** systems
+**What I've Built & Achieved:**
 
-### 🔷 Software Developer Intern @ Ericsson
-*Sep 2020 - Aug 2021 | Montreal, QC*
-- **Accelerated CI pipeline by 94%** by migrating 200+ Perl test cases
-- Implemented HSS Simulator using **Java** for cloud-native migration
-- Performed network debugging with **Wireshark** in distributed environments
+At **Cisco**, I focused on performance optimization and full-stack development. I redesigned UI components using **ReactJS** with virtual scroll functionality, dramatically reducing DOM overhead for users working with massive datasets. On the backend, I built RESTful APIs with **Flask** and developed complex filtering systems using **Python** and **PostgreSQL**. I also created intelligent tooling—like a fuzzy string matching algorithm with 90% accuracy—to prevent duplicate ticket creation and boost team productivity. Much of my work involved low-level systems programming on **Linux**, decoding CRFT data streams, and collaborating with senior engineers on architectural decisions.
+
+At **Ericsson**, I made a significant impact on developer velocity by **accelerating the CI pipeline by 94%**—migrating over 200 Perl test cases to a modern testing framework. I contributed to cloud-native architecture migration by implementing the Home Subscriber Server (HSS) Simulator in **Java**, and spent considerable time debugging distributed systems using **Wireshark** for network analysis and packet inspection.
+
+Throughout these experiences, I've grown comfortable working across the stack—from **Angular** and **ReactJS** frontends to **Python** and **Java** backends, all while maintaining a strong focus on performance, reliability, and developer experience.
 
 ## 🚀 Featured Projects
 
@@ -124,6 +116,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-arorarajat9999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorarajat9999@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-438--866--7200-green?style=for-the-badge&logo=phone&logoColor=white)](tel:4388667200)
   
 </div>
 
