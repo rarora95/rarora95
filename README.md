@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rarora95&label=Profile%20views&color=0e75b6&style=flat" alt="rarora95" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rarora95&label=Profile%20views&color=0e75b6&style=flat" alt="rarora95" /> </p>
 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
