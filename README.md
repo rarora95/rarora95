@@ -34,7 +34,7 @@ Currently pursuing my Master's in Computer Science at **Georgia Tech**, focusing
 
 ## 💼 Professional Experience
 
-I've spent the last few years building impactful software solutions at **Cisco** and **Ericsson**, working across the full stack and diving deep into systems-level challenges. My journey has taken me from optimizing CI/CD pipelines to crafting user-centric UIs and architecting backend services that handle real-world scale.
+I've spent the last few years building impactful software solutions at **Cisco** and **Ericsson** ,  working across the full stack and diving deep into systems-level challenges. My journey has taken me from optimizing CI/CD pipelines to crafting user-centric UIs and architecting backend services that handle real-world scale.
 
 **What I've Built & Achieved:**
 
