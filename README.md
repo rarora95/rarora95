@@ -124,7 +124,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-arorarajat9999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorarajat9999@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-438--866--7200-green?style=for-the-badge&logo=phone&logoColor=white)](tel:4388667200)
   
 </div>
 
