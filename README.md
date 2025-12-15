@@ -30,15 +30,15 @@ me = RajatArora()
 me.say_hi()
 ```
 
-Currently pursuing my Master's in Computer Science at **Georgia Tech**, focusing on Machine Learning and Intelligent Systems. Former Software Engineer at **Cisco** and **Ericsson** with a passion for building high-performance systems and optimizing complex architectures.
+Currently pursuing my Master's in Computer Science at **Georgia Tech**, focusing on Machine Learning and Intelligent Systems. Former Software Engineer at **Cisco** with a passion for building high-performance systems and optimizing complex architectures.
 
 ## 💼 Professional Experience
 
-I've spent the last few years building impactful software solutions at **Cisco** and **Ericsson** ,  working across the full stack and diving deep into systems-level challenges. My journey has taken me from optimizing CI/CD pipelines to crafting user-centric UIs and architecting backend services that handle real-world scale.
+I've spent the last few years building impactful software solutions at **Cisco** and **Ericsson**, working across the full stack and diving deep into systems-level challenges. My journey has taken me from optimizing CI/CD pipelines to crafting user-centric UIs and architecting backend services that handle real-world scale.
 
 **What I've Built & Achieved:**
 
-At **Cisco**, I focused on performance optimization and full-stack development. I redesigned UI components using **ReactJS** with virtual scroll functionality, dramatically reducing DOM overhead for users working with massive datasets. On the backend, I built RESTful APIs with **Flask** and developed complex filtering systems using **Python** and **PostgreSQL**. I also created intelligent tooling—like a fuzzy string matching algorithm with 90% accuracy—to prevent duplicate ticket creation and boost team productivity. Much of my work involved low-level systems programming on **Linux**, decoding CRFT data streams, and collaborating with senior engineers on architectural decisions.
+At **Cisco**, I focused on performance optimization and full-stack development. I redesigned UI components using **ReactJS** with virtual scroll functionality, dramatically reducing DOM overhead for users working with massive datasets. On the backend, I built RESTful APIs with **Flask** and developed complex filtering systems using **Python** and **PostgreSQL**. I also built an NLP-powered duplicate detection system using fuzzy string matching algorithms—achieving 90% accuracy in identifying semantically similar tickets through approximate string matching techniques. This intelligent system significantly reduced noise in our ticketing workflow and boosted team productivity. Much of my work involved low-level systems programming on **Linux**, decoding CRFT data streams through binary parsing and metadata analysis, and collaborating with Principal Engineers on architectural trade-offs and system design decisions.
 
 At **Ericsson**, I made a significant impact on developer velocity by **accelerating the CI pipeline by 94%**—migrating over 200 Perl test cases to a modern testing framework. I contributed to cloud-native architecture migration by implementing the Home Subscriber Server (HSS) Simulator in **Java**, and spent considerable time debugging distributed systems using **Wireshark** for network analysis and packet inspection.
 
