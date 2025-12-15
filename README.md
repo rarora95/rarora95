@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rarora95&label=Profile%20views&color=0e75b6&style=flat" alt="rarora95" /> </p>
+
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
   [![Email](https://img.shields.io/badge/Email-arorarajat9999@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorarajat9999@gmail.com)
