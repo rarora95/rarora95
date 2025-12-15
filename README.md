@@ -5,7 +5,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rarora95&label=Profile%20views&color=0e75b6&style=flat" alt="rarora95" /> </p>
 
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajat-arora-600773177/)
   [![Email](https://img.shields.io/badge/Email-arorarajat9999@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorarajat9999@gmail.com)
   [![Location](https://img.shields.io/badge/Location-Ottawa%2C%20ON-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
