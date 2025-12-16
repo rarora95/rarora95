@@ -120,7 +120,6 @@ I regularly write technical articles on **Medium** covering topics like systems 
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rarora95&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rarora95&theme=radical&hide_border=true)
 
 </div>
 
