@@ -5,6 +5,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rarora95&label=Profile%20views&color=0e75b6&style=flat" alt="rarora95" /> </p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajat-arora-600773177/)
+  [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arorarajat9999)
   [![Email](https://img.shields.io/badge/Email-arorarajat9999@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorarajat9999@gmail.com)
   [![Location](https://img.shields.io/badge/Location-Ottawa%2C%20ON-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
@@ -20,8 +21,8 @@ class RajatArora:
             "current": "MS in Computer Science @ Georgia Institute of Technology",
             "bachelor": "BS in Computer Science @ Concordia University"
         }
-        self.interests = ["Systems Programming", "Computer Networking", "Backend Development"]
-        self.currently_learning = ["Machine Learning", "Deep Learning", "Intelligent Systems"]
+        self.interests = ["Systems Programming", "Networking", "Backend Development"]
+        self.currently_learning = ["Machine Learning", "Deep Learning", "Knowledge-Based AI"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -58,6 +59,22 @@ I love building things from scratch—whether it's low-level systems programming
 
 From **C++ systems programming** to **machine learning experiments**, I document my learning journey and share insights on system design, networking protocols, and performance optimization. Each project includes detailed explanations, architectural decisions, and lessons learned along the way.
 
+## ✍️ Latest Articles & Writing
+
+I regularly write technical articles on **Medium** covering topics like systems programming, networking, distributed systems, machine learning, and software engineering best practices. My writing focuses on demystifying complex concepts and sharing practical insights from real-world development.
+
+<div align="center">
+  
+  [![Medium](https://img.shields.io/badge/Read_My_Articles_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arorarajat9999)
+  
+</div>
+
+**Recent topics I've written about:**
+- Deep dives into TCP/IP networking and packet analysis
+- Performance optimization techniques for high-concurrency systems
+- Machine learning concepts explained through practical implementations
+- Best practices for building scalable backend services
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -92,6 +109,7 @@ From **C++ systems programming** to **machine learning experiments**, I document
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rarora95&layout=compact&theme=radical&hide_border=true)
   
+
 </div>
 
 ## 🎯 Current Focus
