@@ -7,7 +7,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajat-arora-600773177/)
   [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arorarajat9999)
   [![Email](https://img.shields.io/badge/Email-arorarajat9999@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorarajat9999@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Ottawa%2C%20ON-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
 
