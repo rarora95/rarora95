@@ -3,7 +3,6 @@
 <div align="center">
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rarora95&label=Profile%20views&color=0e75b6&style=flat" alt="rarora95" /> </p>
-
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajat-arora-600773177/)
   [![Email](https://img.shields.io/badge/Email-arorarajat9999@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorarajat9999@gmail.com)
@@ -21,8 +20,8 @@ class RajatArora:
             "current": "MS in Computer Science @ Georgia Institute of Technology",
             "bachelor": "BS in Computer Science @ Concordia University"
         }
-        self.interests = ["Systems Programming", "Networking", "Backend Development"]
-        self.currently_learning = ["Machine Learning", "Deep Learning", "Knowledge-Based AI"]
+        self.interests = ["Systems Programming", "Computer Networking", "Backend Development"]
+        self.currently_learning = ["Machine Learning", "Deep Learning", "Intelligent Systems"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -45,25 +44,19 @@ At **Ericsson**, I made a significant impact on developer velocity by **accelera
 
 Throughout these experiences, I've grown comfortable working across the stack—from **Angular** and **ReactJS** frontends to **Python** and **Java** backends, all while maintaining a strong focus on performance, reliability, and developer experience.
 
-## 🚀 Featured Projects
+## 🚀 Projects & Portfolio
 
-### 🔍 Real-Time Network Packet Analyzer
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/YOUR_USERNAME/packet-analyzer)
-[![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-orange?style=flat)](https://github.com/YOUR_USERNAME/packet-analyzer)
+I love building things from scratch—whether it's low-level systems programming, network tools, or ML-powered applications. I've worked on projects ranging from real-time packet analyzers to high-concurrency servers, all with a focus on performance and elegant architecture.
 
-Built a lightweight packet analyzer in **C++** using libpcap for real-time TCP/IP traffic inspection
-- Raw binary parsing with pointer arithmetic
-- Endianness conversion for accurate decoding
-- Low-latency monitoring optimized for network diagnostics
+**Check out my detailed project breakdowns, technical deep-dives, and code walkthroughs on my personal website:**
 
-### ⚡ High-Concurrency Multi-Threaded TCP Server
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/YOUR_USERNAME/tcp-server)
-[![Multithreading](https://img.shields.io/badge/POSIX-Threads-blue?style=flat)](https://github.com/YOUR_USERNAME/tcp-server)
+<div align="center">
+  
+  [![Portfolio Website](https://img.shields.io/badge/🌐_Visit_My_Portfolio-4285F4?style=for-the-badge)](https://YOUR_WEBSITE_URL.com)
+  
+</div>
 
-Developed a production-grade TCP server in **C++** with POSIX sockets
-- Mutex-based synchronization for race condition prevention
-- Custom GET/SET protocol mimicking Redis architecture
-- Efficient resource management and thread lifecycle handling
+From **C++ systems programming** to **machine learning experiments**, I document my learning journey and share insights on system design, networking protocols, and performance optimization. Each project includes detailed explanations, architectural decisions, and lessons learned along the way.
 
 ## 🛠️ Tech Stack
 
@@ -95,12 +88,10 @@ Developed a production-grade TCP server in **C++** with POSIX sockets
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rarora95&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rarora95&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
-
 </div>
 
 ## 🎯 Current Focus
@@ -117,7 +108,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-arorarajat9999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorarajat9999@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-438--866--7200-green?style=for-the-badge&logo=phone&logoColor=white)](tel:4388667200)
   
 </div>
 
