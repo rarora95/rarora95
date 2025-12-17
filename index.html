@@ -1,3 +1,128 @@
-<html>
-	This is my profile
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Engineer | Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;700&display=swap');
+        body { font-family: 'Inter', sans-serif; }
+        .mono { font-family: 'Fira Code', monospace; }
+    </style>
+</head>
+<body class="bg-[#0f172a] text-slate-300">
+
+    <nav class="fixed w-full z-50 bg-[#0f172a]/80 backdrop-blur-md border-b border-slate-800">
+        <div class="max-w-5xl mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="#" class="mono text-blue-400 font-bold tracking-tighter text-xl">&lt;Dev /&gt;</a>
+            <div class="hidden md:flex space-x-8 text-sm font-medium uppercase tracking-widest">
+                <a href="#about" class="hover:text-blue-400 transition">About</a>
+                <a href="#projects" class="hover:text-blue-400 transition">Projects</a>
+                <a href="#skills" class="hover:text-blue-400 transition">Skills</a>
+                <a href="#contact" class="hover:text-blue-400 transition">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <header id="about" class="pt-40 pb-20 px-6">
+        <div class="max-w-5xl mx-auto">
+            <p class="mono text-blue-400 mb-4">Hi, my name is</p>
+            <h1 class="text-5xl md:text-7xl font-bold text-slate-100 mb-6">Your Name.</h1>
+            <h2 class="text-4xl md:text-6xl font-bold text-slate-400 mb-8">I build scalable software solutions.</h2>
+            <p class="max-w-xl text-lg leading-relaxed mb-10">
+                I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products and exploring high-performance systems.
+            </p>
+            <div class="flex gap-4">
+                <a href="#projects" class="border border-blue-400 text-blue-400 px-6 py-3 rounded hover:bg-blue-400/10 transition mono">Check out my work!</a>
+                <a href="your-resume.pdf" class="bg-blue-600 text-white px-6 py-3 rounded hover:bg-blue-700 transition mono">Resume</a>
+            </div>
+        </div>
+    </header>
+
+    <section id="projects" class="py-20 px-6">
+        <div class="max-w-5xl mx-auto">
+            <h3 class="text-3xl font-bold text-slate-100 mb-12 flex items-center">
+                <span class="mono text-blue-400 text-xl mr-2">01.</span> Built Projects
+            </h3>
+            
+            <div class="grid md:grid-cols-2 gap-6">
+                <div class="bg-[#1e293b] p-8 rounded-lg border border-transparent hover:border-blue-400/50 transition-all group">
+                    <div class="flex justify-between items-center mb-6">
+                        <i class="far fa-folder text-4xl text-blue-400"></i>
+                        <div class="flex gap-4 text-xl">
+                            <a href="#" class="hover:text-blue-400"><i class="fab fa-github"></i></a>
+                            <a href="#" class="hover:text-blue-400"><i class="fas fa-external-link-alt"></i></a>
+                        </div>
+                    </div>
+                    <h4 class="text-xl font-bold text-slate-100 mb-3 group-hover:text-blue-400 transition">System Optimizer v1</h4>
+                    <p class="text-sm mb-6 leading-relaxed">A low-level C++ utility designed to monitor system resources and automate memory management for high-load applications.</p>
+                    <ul class="flex gap-4 mono text-xs text-slate-400">
+                        <li>C++</li>
+                        <li>Linux API</li>
+                        <li>Docker</li>
+                    </ul>
+                </div>
+
+                <div class="bg-[#1e293b] p-8 rounded-lg border border-transparent hover:border-blue-400/50 transition-all group">
+                    <div class="flex justify-between items-center mb-6">
+                        <i class="far fa-folder text-4xl text-blue-400"></i>
+                        <div class="flex gap-4 text-xl">
+                            <a href="#" class="hover:text-blue-400"><i class="fab fa-github"></i></a>
+                            <a href="#" class="hover:text-blue-400"><i class="fas fa-external-link-alt"></i></a>
+                        </div>
+                    </div>
+                    <h4 class="text-xl font-bold text-slate-100 mb-3 group-hover:text-blue-400 transition">Distributed Task Runner</h4>
+                    <p class="text-sm mb-6 leading-relaxed">A Go-based orchestration tool for managing distributed workloads across multiple cloud nodes using Kubernetes.</p>
+                    <ul class="flex gap-4 mono text-xs text-slate-400">
+                        <li>Go</li>
+                        <li>gRPC</li>
+                        <li>Kubernetes</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="py-20 px-6 bg-[#0a1120]">
+        <div class="max-w-5xl mx-auto">
+            <h3 class="text-3xl font-bold text-slate-100 mb-12 flex items-center">
+                <span class="mono text-blue-400 text-xl mr-2">02.</span> Technical Arsenal
+            </h3>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+                <div class="p-6 bg-[#1e293b] rounded shadow-xl">
+                    <i class="fab fa-python text-4xl text-yellow-500 mb-4"></i>
+                    <p class="mono text-sm">Python</p>
+                </div>
+                <div class="p-6 bg-[#1e293b] rounded shadow-xl">
+                    <i class="fas fa-code text-4xl text-blue-500 mb-4"></i>
+                    <p class="mono text-sm">C / C++</p>
+                </div>
+                <div class="p-6 bg-[#1e293b] rounded shadow-xl">
+                    <i class="fab fa-docker text-4xl text-blue-400 mb-4"></i>
+                    <p class="mono text-sm">Docker</p>
+                </div>
+                <div class="p-6 bg-[#1e293b] rounded shadow-xl">
+                    <i class="fab fa-git-alt text-4xl text-orange-500 mb-4"></i>
+                    <p class="mono text-sm">Git</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="py-32 px-6 text-center">
+        <div class="max-w-2xl mx-auto">
+            <p class="mono text-blue-400 mb-4">03. What's Next?</p>
+            <h3 class="text-4xl font-bold text-slate-100 mb-6">Get In Touch</h3>
+            <p class="mb-10 text-slate-400">I’m currently looking for new opportunities. Whether you have a question or just want to say hi, I’ll try my best to get back to you!</p>
+            <a href="mailto:your.email@example.com" class="border border-blue-400 text-blue-400 px-10 py-4 rounded hover:bg-blue-400/10 transition mono">Say Hello</a>
+        </div>
+    </section>
+
+    <footer class="py-8 text-center text-sm mono text-slate-500">
+        <p>Built by Your Name &middot; 2025</p>
+    </footer>
+
+</body>
 </html>
